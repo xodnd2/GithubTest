@@ -8,4 +8,7 @@ int main()
 
 	cout << "Kang";
 	cout << "Tae Woong";
+
+	cout << "Kang";
+	cout << "Tae Woong";
 }
